@@ -1,2 +1,2 @@
 # R2SN_code
-This script can automatic create R2SN network 
+R2SNs provide a novel, reliable and biologically plausible method to understand human morphological covariance based on sMRI.
